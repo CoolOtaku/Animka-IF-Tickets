@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Programs\\barcode-reader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ms\\.gradle\\caches\\transforms-2\\files-2.1\\5fb9425add535b61a16c42032d7a255c\\play-services-basement-9.4.0\\res\\values-ky\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "331",
+                        "endColumns": "251",
+                        "endOffsets": "578"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1345",
+                        "endColumns": "251",
+                        "endOffsets": "1592"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ms\\.gradle\\caches\\transforms-2\\files-2.1\\cc6bcb91f835922175c520064a98695f\\play-services-base-9.4.0\\res\\values-ky\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "329,437,618,749,879,1090,1302,1431,1569,1810,1936,2045,2226,2358,2554,2691,2888,2982,3072",
+                        "endColumns": "107,180,130,129,210,211,128,137,240,125,108,180,131,195,136,196,93,89,106",
+                        "endOffsets": "432,613,744,874,1085,1297,1426,1564,1805,1931,2040,2221,2353,2549,2686,2883,2977,3067,3174"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,394,525,655,866,1078,1207,1597,1838,1964,2073,2254,2386,2582,2719,2916,3010,3100",
+                        "endColumns": "107,180,130,129,210,211,128,137,240,125,108,180,131,195,136,196,93,89,106",
+                        "endOffsets": "208,389,520,650,861,1073,1202,1340,1833,1959,2068,2249,2381,2577,2714,2911,3005,3095,3202"
+                    }
+                }
+            ]
+        }
+    ]
+}

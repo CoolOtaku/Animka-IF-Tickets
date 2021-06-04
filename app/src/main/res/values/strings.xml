@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Для виявлення потрібен доступ до камери</string>
+    <string name="no_camera_permission">Ця програма не може запускатися, оскільки не має дозволу камери. Тепер програма закриється.</string>
+    <string name="low_storage_error">Залежно від детектора обличчя неможливо завантажити через низьке сховище пристрою</string>
+    <string name="title_activity_main">Зразок зчитувача штрих-коду</string>
+    <string name="barcode_header">Клацніть \"Прочитати штрих-код\" читати штрих-код</string>
+    <string name="read_barcode">Сканувати</string>
+    <string name="auto_focus">Автофокус</string>
+    <string name="use_flash">Використати вспишку</string>
+    <string name="barcode_success">Штрих-код читається успішно</string>
+    <string name="barcode_failure">Не зафіксовано штрих-код</string>
+    <string name="barcode_error">"Помилка читання штрих-коду:% 1 $ s"</string>
+    <string name="exit">ВИХІД</string>
+    <string name="input_code">АБО ВВЕДІТЬ КОД</string>
+    <string name="code">КОД</string>
+    <string name="verify">ПЕРЕВІРИТИ</string>
+    <string name="system_verify_tickets">СИСТЕМА ПЕРЕВІРКИ КВИТКІВ</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="log_in">УВІЙТИ</string>
+</resources>
