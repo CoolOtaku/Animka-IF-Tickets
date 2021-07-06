@@ -6,7 +6,7 @@
 
 This is my project to scan QR codes from tickets for some event.
 
-It was based on an application project from GitHub, using the Google Vision API library.
+It was based on an application project from **GitHub**, using the ***Google Vision API*** library.
 
 ### Screenshots of the application:
 
