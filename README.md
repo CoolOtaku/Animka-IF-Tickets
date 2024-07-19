@@ -24,17 +24,18 @@ It was based on an application project from **GitHub**, using the ***Google Visi
 </p>
 
 #
-
 ## Technologies used
-
+<b>EN:</b>
 - Internal authorization system
 - Reading the image from the camera
 - Reading QR codes from the image
 
+<b>UA:</b>
+- Внутрішня система авторизації
+- Зчитування зображення з камери
+- Зчитування QR-кодів із зображення
 #
-
 ## License
-
 ```
 © 2020, CoolOtaku (ericspz531@gmail.com)
 ```
