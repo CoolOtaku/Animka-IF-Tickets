@@ -1,4 +1,4 @@
-<p align="center"><img width="128" height="128" src="app/src/main/res/drawable-hdpi/icon.png" /></p>
+<p align="center"><img width="128" height="128" src="app/src/main/res/drawable-hdpi/icon.png"/></p>
 <h1 align="center">Animka-IF-Tickets</h1>
 
 ## Description
@@ -34,6 +34,7 @@ It was based on an application project from **GitHub**, using the ***Google Visi
 - Внутрішня система авторизації
 - Зчитування зображення з камери
 - Зчитування QR-кодів із зображення
+
 #
 ## License
 ```
